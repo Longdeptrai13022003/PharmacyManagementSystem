@@ -28,10 +28,9 @@
 ## 🛠️ Technologies Used
 
 - **Language:** C# (.NET Framework / .NET Core)
-- **Interface:** Windows Forms or ASP.NET MVC (depending on version)
+- **Interface:** Windows Forms MVC
 - **Database:** Microsoft SQL Server
 - **Architecture:** MVC (Model - View - Controller)
-- **ORM:** Entity Framework (if applicable)
 - **Tools:** Visual Studio, SQL Server Management Studio (SSMS)
 
 ## 🗂️ Project Structure
